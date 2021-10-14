@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(217,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(227,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(238,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(248,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(263,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(280,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(317,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(318,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(319,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(320,21): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(337,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(382,24): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(383,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(384,24): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(385,23): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\MathbyMe.h(394,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(28,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(29,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(54,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(54,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(55,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(55,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(56,76): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(136,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(137,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(139,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\ConvertToRaster.h(140,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CGS\Labs\Lab4\Lab4\Lab4\main.cpp(9,98): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CGS\Labs\Lab4\Lab4\Lab4\main.cpp(97,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lab4.vcxproj -> D:\CGS\Labs\Lab4\Lab4\Debug\Lab4.exe
